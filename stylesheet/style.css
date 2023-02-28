@@ -1,0 +1,19 @@
+/* Fichier parent.css */
+
+@import url("bootstrap.css");
+
+/* Le reste des styles du fichier parent */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    color: #FFFFFF;
+}
+body {
+    margin: 20px;
+  }
+
+  :root {
+    --bg-color: #f8f9f8;
+}
